@@ -9,12 +9,25 @@ The course covers:
 - Introduction to Python Programming
 - Data structures and algorithm in Python
 - Introduction to machine learning
-- Introduction to neural networks.
+- Introduction to deep learning
+- Convolutional neural networks
 
 This repository will be updated each time after the class end.
 
 Software requirements:
 Python 3.0 and higher
-Jupyter Notebook
+
+Jupyter Notebook,
+Keras,
+Scikit-learn,
+Matplotlib,
+Scipy,
+Numpy,
+Pandas,
+Seaborn,
+Tensorflow
+
+
+
 
 
