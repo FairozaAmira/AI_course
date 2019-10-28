@@ -23,7 +23,7 @@ The course started from 29th May 2019 until 10th August 2019.
 `Pandas`<br/>
 `Seaborn`<br/>
 `Tensorflow`<br/>
-`Google Colaboratory <br/>
+`Google Colaboratory` <br/>
 
 ## Who's this repository for?
 Students of KCGI who register to AI Programming Spring Semester 2019
