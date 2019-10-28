@@ -1,4 +1,4 @@
-# KCGI AI Programming Sring Semester 2019 course
+# KCGI AI Programming Spring Semester 2019 course
 
 Solution for each exercises in each lessons.
 
