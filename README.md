@@ -35,7 +35,8 @@ Lisa Tagliaferri, “How to Code in Python 3”, Digital Ocean <br/>
 Gayle Laakmann McDowell, “Cracking the Coding Interview”, Careercup, 2015 </br>
 A. Y. Bhargava, “Grokking Algorithms,” Manning Publications, 2016
 
-
+## Contact
+fairoza@kcg.ac.jp
 
 
 
